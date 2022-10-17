@@ -1,3 +1,26 @@
+Procedure followed in the below steps
+
+
+1. Created the application using npm 
+
+2. Added three main components for the given task 
+
+  a) Recipe categories page
+
+  b) showing all meals available to that particular category
+
+  c) Showing instructions to that particular meal
+
+2. Redirecting the components using useparams 
+
+3. Assigning the particular values to the params id's
+
+4. Used boostrap framework for better userfrendly interface
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
