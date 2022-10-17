@@ -5,11 +5,11 @@ Procedure followed in the below steps
 
 2. Added three main components for the given task 
 
-  a) Recipe categories page
+          a) Recipe categories page
 
-  b) showing all meals available to that particular category
+          b) showing all meals available to that particular category
 
-  c) Showing instructions to that particular meal
+          c) Showing instructions to that particular meal
 
 2. Redirecting the components using useparams 
 
