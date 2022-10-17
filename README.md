@@ -18,6 +18,7 @@ Procedure followed in the below steps
 4. Used boostrap framework for better userfrendly interface
 
 
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/87764725/196077623-95242738-a381-43be-ac34-467b80543c6a.png">
 
 
 
